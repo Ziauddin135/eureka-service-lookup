@@ -1,6 +1,0 @@
-{
-  "name": "Eureka Service Lookup",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/Ziauddin135/eureka-service-lookup",
-  "logo": "https://node-js-sample.herokuapp.com/node.png"
-}
